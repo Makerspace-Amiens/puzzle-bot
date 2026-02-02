@@ -3,19 +3,19 @@ layout: documentation
 hide_hero: false
 doc_header: false
 component_toc: true
-hero_image: ../../axidraw-twitter-stokeastic.png
+hero_image: ../../puzzle-bot.jpg
 hero_darken: true
 title: Machines that Draws
 subtitle: Fabriquez votre machine qui dessine !
 ---
 
-## Machines That Draws
+## Puzzle Bot
 
-Bienvenue dans le projet **"Machines That Draws"** ! Vous allez **concevoir** et **construire** votre propre **machine de dessin automatisée**, sans plans préétablis, en laissant libre cours à votre imagination et vos compétences. 
+Bienvenue dans le projet **"Puzzle Bot"** ! Vous allez **concevoir** et **construire** votre propre **machine qui résout un puzzle**, sans plans préétablis, en laissant libre cours à votre imagination et vos compétences. 
 
-Inspiré par des dispositifs comme l'Axidraw et des projets **open source**, ce projet vous permettra d’explorer des domaines variés comme l’**électronique**, la **programmation**, et la **fabrication numérique**, tout en manipulant des composants tels que des moteurs pas à pas, des servos, et des cartes Arduino avec CNC Shields.
+Inspiré par des dispositifs créé par [**Mark Rober**](https://www.youtube.com/watch?v=Sqr-PdVYhY4), [**Stuff Made Here**](https://www.youtube.com/watch?v=WsPHBD5NsS0) ou d'autres projets open source, celui-ci vous permettra d’explorer des domaines variés comme l’**électronique**, la **programmation**, et la **fabrication numérique**, tout en manipulant des composants tels que des moteurs pas à pas, des servos, et des cartes Arduino avec CNC Shields.
 
-Le projet se déroule sur **deux semestres (30 heures par semestre)**, ce qui vous laissera le temps de vous immerger pleinement dans toutes les étapes de création.
+Le projet se déroule sur **un semestre pendant 90h**, ce qui vous laissera le temps de vous immerger pleinement dans toutes les étapes de création.
 
 ---
 
@@ -25,57 +25,69 @@ Le projet se déroule sur **deux semestres (30 heures par semestre)**, ce qui vo
 
 - **Fabrication numérique** : Une fois vos pièces conçues, vous utiliserez les outils du MakerSpace pour les fabriquer. Entre **impression 3D**, **découpe laser** et autres outils et technologies de prototypage rapide, vous avez tout ce dont vous avez besoin pour **tester** et **concrétiser** vos idées.
 
-- **Programmation et électronique** : Vous programmerez des cartes **Arduino** et apprendrez à piloter des **moteurs** et des **servos**. Vous pourrez également travailler sur le **développement logiciel** pour générer les dessins ou concevoir vos propres cartes électroniques.
+- **Programmation et électronique** : Vous programmerez des cartes **Arduino** et apprendrez à piloter des **moteurs** et des **servos**. Vous pourrez également travailler sur le **développement logiciel** pour générer les déplacements de votre machine ou concevoir vos propres cartes électroniques.
 
 - **Assemblage et calibration** : Vous assemblerez votre machine, en veillant à **aligner** et **calibrer** chaque élément pour garantir un fonctionnement **optimal**. C’est ici que votre machine prendra vie !
+
+- **Vision** : Vous aborderez les aspects de la vision par ordinateur, permettant à votre machine de repérer les pièces et de les traiter efficacement.
 
 ---
 
 ## Pourquoi ce projet ?
 
-Ce projet vous permettra de développer vos compétences techniques tout en laissant place à votre créativité et votre esprit d’innovation. Vous travaillerez dans un cadre collaboratif au [MakerSpace](https://makerspace-amiens.fr), où vous aurez accès à des outils et à un accompagnement pour donner vie à votre machine.
+Ce projet s’inscrit dans la continuité du projet d’I2 autour des **machines de dessin**. Il vise à approfondir et à structurer les compétences déjà mobilisées, en passant d’une première exploration créative à une démarche d’ingénierie plus complète et plus rigoureuse.
 
-C’est une occasion d’apprendre par la pratique et de voir vos idées se transformer en réalité. 
+Vous serez amené·e·s à consolider vos choix techniques, à améliorer la fiabilité et la précision de vos machines, et à intégrer de nouvelles fonctionnalités en lien avec des problématiques réelles (contrôle, automatisation, interaction avec l’environnement). Le projet se déroulera au [MakerSpace](https://makerspace-amiens.fr), dans un cadre collaboratif, avec un accès aux outils de prototypage et un accompagnement technique.
 
-Alors, prêt·e·s à relever le défi ? À vos idées, vos outils… à vous de construire la **machine qui vous ressemble** !
+L’objectif est de vous faire progresser vers une approche plus professionnelle du développement d’une machine : analyse du besoin, conception, itérations, tests et validation. Ce projet constitue ainsi une étape clé entre un prototype exploratoire et un système abouti.
 
 ---
 
 ## Instructions pour le projet
 
 ### Organisation générale
-Le projet **Machines That Draws** se déroule sur deux semestres (2 x 30 heures). 
 
-- **Semestre 1 (S1)** : Vous travaillerez sur le **prototypage** de votre machine. À la fin de ce semestre, vous devez avoir un **Proof of Concept (POC)** fonctionnel. 
-- **Semestre 2 (S2)** : Vous améliorerez votre machine pour développer une **version finale** plus aboutie. Vous travaillerez également sur la génération de tracés pour préparer la **Journée des Projets**, où vous présenterez votre travail.
+Le projet **Puzzle Bot** se déroule sur un volume total de **75 heures**, structuré en plusieurs phases complémentaires.
+
+- **Phase de pré-projet (25 h)** : Cette phase est consacrée à la définition du concept et au **prototypage initial** du Puzzle Bot. L’objectif est d’aboutir à un **Proof of Concept (POC)** fonctionnel, validant les principes mécaniques, électroniques et logiciels retenus. Cette étape se conclut par une **évaluation intermédiaire** permettant de vérifier la cohérence du projet et la faisabilité technique.
+- **Phase de projet – finalisation (50 h)** : Vous poursuivrez le développement du Puzzle Bot afin d’aboutir à une **version finale** plus aboutie et fiable. Cette phase porte sur l’amélioration des performances, la robustesse du système, l’intégration des fonctionnalités avancées (détection, traitement, interaction) et la **préparation de la démonstration** pour la **Journée des Projets**.
+
+En parallèle, **15 heures** sont dédiées à des **enseignements en gestion de projet**, visant à structurer votre démarche d’ingénierie : organisation du travail, planification, suivi de l’avancement et communication technique, en lien direct avec le projet.
 
 ### Formation des équipes
-- Les équipes doivent être composées de **4 étudiants**. 
-- Étant donné la diversité des compétences nécessaires (électronique, mécanique, logiciel embarqué et logiciel sur ordinateur), il est recommandé de se regrouper **par affinité de compétences**, et non uniquement par affinité personnelle.
-- Une équipe équilibrée, avec des compétences complémentaires, sera un atout majeur pour relever les défis technologiques.
+
+- Les équipes sont constituées en moyenne de **6 étudiants**, organisés en **sous-équipes de binômes**.
+- Afin de répondre aux besoins d’équilibrage du projet, vous êtes invités à **constituer vos binômes** et à **identifier clairement les compétences dominantes** de chaque binôme (mécanique, électronique, logiciel embarqué, logiciel sur ordinateur, etc.).
+- Le **groupe final** sera ensuite structuré à partir de ces binômes, **regroupés par compétences**, de manière à former une équipe cohérente et complémentaire, adaptée aux enjeux techniques du projet.
 
 ### Méthodologie et autonomie
+
 Ce projet n’est **pas un TP classique** avec des instructions détaillées à suivre. Vous êtes **les maîtres de votre réussite** :
 - Utilisez le site dédié pour trouver des pistes et des ressources pour démarrer.
 - Prenez des initiatives : posez des questions, effectuez des recherches, testez différentes solutions.
 - N’hésitez pas à **travailler en dehors des heures de cours**. Le MakerSpace est ouvert presque toute la semaine, profitez-en pour avancer sur votre machine.
 
 ### Travail attendu et livrables
-#### À la fin du S1 (Proof of Concept - POC)
-- **Présentation technique (5 minutes)** : Présentez vos choix techniques, le fonctionnement de votre POC et les défis rencontrés.
-- **Rendu OnShape** : Partagez un document unique contenant l’ensemble de la CAO de votre machine.
-- **Vidéo verticale (1 minute)** : Réalisez une vidéo en format portrait, destinée à présenter votre projet de manière professionnelle, comme si vous parliez à un futur recruteur. Montrez le fonctionnement de votre machine et mettez en avant vos compétences.
+#### À la fin des premières 25h (Proof of Concept - POC)
+- **Présentation technique - 15 minutes** : Présentez vos choix techniques, le fonctionnement de votre POC et les défis rencontrés.
+- **Rendu OnShape** : Réalisez l’**ensemble de la CAO** de votre machine dans le document de travail Onshape mis à disposition au début de votre projet.
+- **Documentation technique** : Initiez la rédaction de votre documentation technique en utilisant le dépôt GitHub mis à disposition au début du projet. Pour ce premier rendu, celle-ci devra intégrer a minima :
+  - L’explication et la justification de vos **choix techniques** (fondements scientifiques et techniques).
+  - La description de l’**implication et des missions de chaque membre** au sein du projet.
+  - L’**état d’avancement** des recherches et des réalisations actuelles de votre développement.
 
-#### À la fin du S2 (Version finale)
+
+#### À la fin du projet (Version finale)
 - **Rendu OnShape** : Fournissez un document complet avec la CAO de la machine finalisée.
-- **Rapport technique** : Documentez votre machine de manière exhaustive, en incluant :
+- **Sources techniques**: Vos codes, cartes électroniques et autres sources techniques regroupés dans votre dépôt GitHub.
+- **Documentation technique** : Documentez votre machine de manière exhaustive, en incluant :
   - Les étapes pour la recréer.
   - Les améliorations possibles.
   - Une évaluation critique des choix techniques.
-  - La qualité de votre rapport sera évaluée sur sa capacité à être réutilisé par d’autres.
-- **Vidéo finale** : Une vidéo présentant la version finalisée de votre machine et son fonctionnement.
+  - La qualité de votre documentation sera évaluée sur sa capacité à être réutilisé par d’autres.
+- **Vidéo finale - 1 minute** : Une vidéo au format portrait présentant la version finalisée de votre machine et son fonctionnement. Cette vidéo doit avoir une vocation professionnelle, comme si vous présentiez votre projet à un futur recruteur. Elle devra illustrer clairement le fonctionnement de la machine et mettre en valeur vos compétences techniques, votre démarche de conception et votre capacité à mener un projet d’ingénierie jusqu’à son aboutissement.
 - **Participation à la Journée des Projets** : Préparez votre stand pour exposer votre machine et les travaux réalisés.
-- **Soutenance technique** : Une présentation approfondie de votre projet devant un jury.
+- **Soutenance technique - 20 minutes** : Une présentation approfondie de votre projet devant un jury.
 
 ### Journée des Projets (Juin)
 La **Journée des Projets** est un événement phare où vous aurez l’occasion d’exposer votre machine devant des professionnels (enseignants d’autres écoles, entreprises, responsables politiques, etc.). Votre travail sera évalué par un jury sur :
