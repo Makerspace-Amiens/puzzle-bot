@@ -6,7 +6,7 @@ hero_darken: true
 image: image.png
 component_toc: true
 doc_header: true
-type: tuto
+type: archive
 
 title: Les types de machines
 subtitle: Découvrez différents types de machines et de mouvements

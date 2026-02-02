@@ -5,8 +5,8 @@ doc_header: false
 component_toc: true
 hero_image: ../../puzzle-bot.jpg
 hero_darken: true
-title: Machines that Draws
-subtitle: Fabriquez votre machine qui dessine !
+title: Puzzle Bot
+subtitle: Fabriquez votre machine qui résout un puzzle !
 ---
 
 ## Puzzle Bot

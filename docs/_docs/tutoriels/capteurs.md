@@ -6,7 +6,7 @@ hero_darken: true
 image: image.png
 component_toc: true
 doc_header: true
-type: tuto
+type: archive
 
 title: Les Capteurs
 subtitle: Introduction à la notion de capteur

@@ -1,9 +1,9 @@
 ---
 layout: documentation
 hide_hero: false
-hero_image: axidraw-twitter-stokeastic.png
+hero_image: puzzle-bot.jpg
 hero_darken: true
-image: axidraw-twitter-stokeastic.png
+image: puzzle-bot.jpg
 component_toc: true
 doc_header: true
 type: tuto
@@ -18,30 +18,27 @@ difficulty: 1
 todo: 80
 ---
 
-{% include step-tuto.html image="team.png" greyBackground = false title = "Étape 1 : Formation de l’équipe" content="La première étape consiste à **former une équipe** de **4 étudiants** avec des compétences **complémentaires** pour maximiser vos chances de succès. Analysez vos **points forts** et ceux de vos camarades pour **répartir les rôles** de manière équilibrée : **responsable mécanique**, **responsable électronique**, **responsable logiciel**... 
+{% include step-tuto.html image="team.png" greyBackground = false title = "Étape 1 : Formation de l’équipe" content="La première étape consiste à **former une équipe** de **6 étudiants** avec des compétences **complémentaires** pour maximiser vos chances de succès. Analysez vos **points forts** et ceux de vos camarades pour **répartir les rôles** de manière équilibrée : **responsable mécanique**, **responsable électronique**, **responsable logiciel**... 
 
-N’oubliez pas de définir un **cadre de travail clair** dès le début, en établissant des **règles de communication** et en choisissant des **outils collaboratifs** comme **Trello** ou **Teams** pour organiser vos tâches." %}
+N’oubliez pas de définir un **cadre de travail clair** dès le début, en établissant des **règles de communication** et en choisissant des **outils collaboratifs** comme **Trello** ou **Teams de Github** pour organiser vos tâches." %}
 
 
 
-{% include step-tuto.html image="documentation.png" greyBackground = false title = "Étape 2 : Compréhension du projet et des objectifs" content="Prenez le temps de bien **comprendre** les attentes du **projet**, les **livrables** à rendre, et les **délais**. Discutez ensemble pour **clarifier les objectifs** : un **Proof of Concept** fonctionnel pour le **S1** et une **version finale améliorée** pour le **S2**.
+{% include step-tuto.html image="documentation.png" greyBackground = false title = "Étape 2 : Compréhension du projet et des objectifs" content="Prenez le temps de bien **comprendre** les attentes du **projet**, les **livrables** à rendre, et les **délais**. Discutez ensemble pour **clarifier les objectifs** : un **Proof of Concept** fonctionnel pour la **première période** et une **version finale améliorée** pour la **fin du projet**.
 
 Listez également les **contraintes** à respecter, comme le **matériel disponible** ou les **limites** imposées par le temps. Cette étape est **nécessaire** pour **aligner les attentes** de tout le monde dès le départ." %}
 
+ 
 
-
-
-{% include step-tuto.html image="research.png" greyBackground = false title = "Étape 3 : Recherche et exploration" content="Faites des **recherches** sur des machines similaires, comme l’**Axidraw** ou des projets **open source**.
-
-Vous pouvez vous aider de la page [**Types de machines**](../03-types-de-machines). Identifiez les **concepts** qui pourraient **inspirer** votre machine et explorez des **tutoriels techniques**.
+{% include step-tuto.html image="research.png" greyBackground = false title = "Étape 3 : Recherche et exploration" content="Faites des **recherches** sur des machines similaires ou des projets **open source**. Identifiez les **concepts** qui pourraient **inspirer** votre machine et explorez des **tutoriels techniques**.
 
 Utilisez cette étape pour faire un **brainstorming** en équipe et sélectionner les **idées les plus réalisables** en fonction de vos **ressources**, **envies** et **compétences**." %}
 
 
 
-{% include step-tuto.html image = "target.png" greyBackground = false title = "Étape 4 : Définition des spécifications" content="Décrivez précisément ce que votre machine doit **accomplir**. Identifiez les **fonctionnalités minimales** nécessaires pour le **Proof of Concept** du **S1**, comme le **tracé de lignes simples**.
+{% include step-tuto.html image = "target.png" greyBackground = false title = "Étape 4 : Définition des spécifications" content="Décrivez précisément ce que votre machine doit **accomplir**. Identifiez les **fonctionnalités minimales** nécessaires pour le **Proof of Concept**, comme le **déplacement simple d'une pièce**.
 
-Ensuite, définissez les **objectifs à long terme** pour le **S2**, tels que des **tracés plus complexes** ou une **meilleure précision**. Cette étape inclut également le **choix des composants** électroniques et mécaniques à utiliser." %}
+Ensuite, définissez les **objectifs à long terme**, tels que des **déplacements combinés avec une rotation** ou une **meilleure précision**. Cette étape inclut également le **choix des composants** électroniques et mécaniques à utiliser." %}
 
 
 
@@ -77,13 +74,13 @@ Testez régulièrement pour **identifier les bugs** et **ajuster les paramètres
 
 
 
-{% include step-tuto.html image = "tune.png" greyBackground = false title = "Étape 10 : Calibration" content="Ajustez et **calibrez votre machine** pour garantir un fonctionnement **précis**. Vérifiez l’**alignement des axes**, les **distances de déplacement**, et la **précision des tracés**.
+{% include step-tuto.html image = "tune.png" greyBackground = false title = "Étape 10 : Calibration" content="Ajustez et **calibrez votre machine** pour garantir un fonctionnement **précis**. Vérifiez l’**alignement des axes**, les **distances de déplacement**, et la **précision des prises de pièces**.
 
-Effectuez des **tests** avec des formes simples (**carrés**, **cercles**) et **affinez les réglages** en fonction des **résultats obtenus**." %}
+Effectuez des **tests** avec des déplacements simples (**carrés**, **cercles**) et **affinez les réglages** en fonction des **résultats obtenus**." %}
 
 
 
-{% include step-tuto.html image = "render.png" greyBackground = false title = "Étape 11 : Documentation et livrables S1" content="Compilez les **résultats du premier semestre** en préparant un document **OnShape** de votre **POC**, une **vidéo verticale** de présentation, et une **présentation technique** de **5 minutes**.
+{% include step-tuto.html image = "render.png" greyBackground = false title = "Étape 11 : Documentation et premiers livrables" content="Compilez les **résultats du premier POC** en préparant un document **OnShape** de votre **machine**, une **documentation**, et une **présentation technique** de **15 minutes**.
 
 Ces **livrables** doivent refléter votre **progression** et les **choix techniques** faits jusqu’à présent." %}
 
@@ -95,7 +92,13 @@ Concentrez-vous sur la **précision**, la **fiabilité** et l’**esthétique** 
 
 
 
-{% include step-tuto.html image = "draw.png" greyBackground = false title = "Étape 13 : Développement des tracés automatisés" content="Travaillez sur la **génération de tracés complexes**. Explorez l’intégration de **G-code** pour programmer des **motifs spécifiques** et testez différentes approches pour améliorer les **résultats graphiques** produits par votre machine." %}
+{% include step-tuto.html 
+image="draw.png" 
+greyBackground=false 
+title="Étape 13 : Vision et reconnaissance d’images" 
+content="Travaillez sur l’**intégration de la vision par ordinateur** afin de permettre à votre machine de **percevoir son environnement**. Mettez en place des méthodes de **détection et de reconnaissance d’éléments visuels** (formes, couleurs, positions) à partir d’images ou de flux vidéo. Explorez différentes approches (traitement d’image classique, bibliothèques dédiées) pour améliorer la **fiabilité**, la **précision** et la **robustesse** de la reconnaissance, en lien avec les contraintes matérielles et temporelles de votre système." 
+%}
+
 
 
 
@@ -104,7 +107,7 @@ Préparez une **vidéo finale** montrant son **fonctionnement**, un **rapport te
 
 
 
-{% include step-tuto.html image = "presentation.png" greyBackground = false title = "Étape 15 : Présentation lors de la Journée des Projets" content="Préparez un **stand** pour présenter votre machine à la **Journée des Projets**. Mettez en avant les **tracés réalisés**, les **défis surmontés**, et les **compétences acquises**.
+{% include step-tuto.html image = "presentation.png" greyBackground = false title = "Étape 15 : Présentation lors de la Journée des Projets" content="Préparez un **stand** pour présenter votre machine à la **Journée des Projets**. Mettez en avant les **process réalisés**, les **défis surmontés**, et les **compétences acquises**.
 
 Soyez prêt·e à **répondre aux questions** d’un **jury de professionnels** et à **démontrer le fonctionnement** de votre machine." %}
 

@@ -7,7 +7,7 @@ hero_darken: true
 image: 2021-11-08-11-37-38.png
 component_toc: true
 doc_header: true
-type: tuto
+type: archive
 
 title: Port Serie
 subtitle: Ressources d'utilisation du port série

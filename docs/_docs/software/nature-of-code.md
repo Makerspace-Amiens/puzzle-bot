@@ -6,8 +6,7 @@ hero_darken: true
 image: image.png
 component_toc: true
 doc_header: true
-type: software
-
+type: archive
 title: Nature of Code
 subtitle: Avec Daniel Shiffman - The Nature of Code
 description: 

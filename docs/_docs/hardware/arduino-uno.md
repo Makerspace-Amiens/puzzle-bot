@@ -9,8 +9,8 @@ doc_header: true
 type: hardware
 
 title: Arduino Uno
-subtitle: Piloter un mouvement angulaire limité
-description: Cette page détaille le fonctionnement d'un servomoteur de modélisme
+subtitle: Carte à microcontroleur
+description: Cette page détaille le fonctionnement basique d'une carte Arduino UNO
 manufacturer:
   - name: Arduino Uno
     link: "https://store.arduino.cc/en-fr/products/arduino-uno-rev3"

@@ -1,24 +1,24 @@
 ---
 layout: documentation
 hide_hero: false
-hero_image: geomerative.png
+hero_image: image.png
 hero_darken: true
-image: geomerative.png
+image: image.png
 component_toc: true
 doc_header: true
-type: archive
+type: software
 
-title: Librairie Processing Geomerative
-subtitle: Nécessaire pour génerer du GCODE avec Processing
-description: Librairie Processing pour utiliser le boilerplate GCODE
+title: OpenCV
+subtitle: Traitement d'images
+description: Bibliothèque libre spécialisée dans le traitement d'images
 manufacturer:
-  - name: github
-    link: "https://github.com/Makerspace-Amiens/geomerative"
+  - name: UGS
+    link: "https://opencv.org"
 
-external_link: https://github.com/Makerspace-Amiens/geomerative
+external_link: https://opencv.org
 
-todo: 100
-author: Rémi Lacombe
+todo: 10
+author: Adrien BRACQ
 ---
 
 {% include message.html title="Bientôt !" message="La page est en cours de construction. Bientôt, vous retrouverez ici les informations pour construire votre projet"
