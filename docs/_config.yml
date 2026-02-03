@@ -1,8 +1,8 @@
-title: Machine That Draws
-description: Concevez et fabriquez votre machine qui dessine !
+title: Puzzle Bot
+description: Concevez et fabriquez votre machine qui résout un puzzle !
 theme: bulma-clean-theme
 
-url: https://github.com/Makerspace-Amiens/machines-that-draws
+url: https://github.com/Makerspace-Amiens/puzzle-bot
 force_theme: light
 permalink: pretty
 footer_menu: footer_navigation

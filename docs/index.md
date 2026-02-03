@@ -20,4 +20,4 @@ Sur cette plateforme, vous trouverez l'ensemble des ressources et documentations
 
 ## Environnement d'apprentissage
 
-Le cours se déroule dans le [MakerSpace](https://makerspace-amiens.fr), un espace d'apprentissage par l'action équipé de toutes les ressources nécessaires à la réalisation de projets techniques. Les étudiant·e·s auront accès aux machines, aux outils, et au support technique requis pour concrétiser leur machine de dessin.
+Le cours se déroule dans le [MakerSpace](https://makerspace-amiens.fr), un espace d'apprentissage par l'action équipé de toutes les ressources nécessaires à la réalisation de projets techniques. Les étudiant·e·s auront accès aux machines, aux outils, et au support technique requis pour concrétiser leur machine.

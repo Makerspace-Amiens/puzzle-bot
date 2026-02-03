@@ -56,7 +56,7 @@ Pour piloter un moteur pas à pas, un driver spécialisé est nécessaire pour g
 
 ## Votre matériel
 
-Pour le projet **Machine That Draws**, vous aurez accès aux materiel suivant : 
+Pour le projet, vous aurez accès aux materiel suivant : 
 
 - **Moteur Pas-à-pas :** [17HE12-1204S - StepperOnline](https://www.omc-stepperonline.com/fr/e-serie-nema-17-bipolaire-26ncm-36-82oz-in-1-2a-42x42x30mm-4-fils-avec-1m-de-cable-et-connecteur-17he12-1204s)
 

@@ -19,7 +19,7 @@ difficulty: 1
 
 Le projet sera entièrement réalisé sur Onshape, un outil puissant que vous avez déjà utilisé par le passé. Très similaire à des logiciels comme SolidWorks ou Fusion 360, Onshape se distingue par son accessibilité et sa collaborativité. Accessible directement depuis un navigateur, il fonctionne sur n’importe quelle configuration de PC, permettant ainsi à chacun de travailler en temps réel sur un même fichier partagé en ligne.
 
-Pour ce projet, nous mettons à votre disposition un fichier de départ contenant les éléments de base en 3D du matériel fourni. À partir de ce fichier, vous devrez utiliser ces éléments pour concevoir et créer votre propre machine à dessiner.
+Pour ce projet, nous mettons à votre disposition un fichier de départ contenant les éléments de base en 3D du matériel fourni. À partir de ce fichier, vous devrez utiliser ces éléments pour concevoir et créer votre propre machine.
 
 Assurez-vous de suivre attentivement les étapes ci-dessous pour bien démarrer votre projet.
 
@@ -72,7 +72,7 @@ image="2022-09-07-10-29-20.png" %}
 
 Pour la suite du projet, vous allez partir d'un fichier Onshape contenant des composants déjà modélisés pour vous aider à démarrer.  
 Communiquez les membres de votre groupe aux encadrants, ils vous partagerons l'accès en modification au document dans lequel vous devrez travailler sur Onshape.  
-Ce dernier portera ce nom : **Machine that draws 2025-2026 - GROUPE XX** (numéro de votre groupe)
+Ce dernier portera ce nom : **Puzzle Bot 2025-2026 - GROUPE XX** (numéro de votre groupe)
 
 {% include step-tuto.html 
 greyBackground = true
